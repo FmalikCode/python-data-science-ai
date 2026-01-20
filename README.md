@@ -1,3 +1,15 @@
+## Setup Instructions (Mandatory Before Day 1)
+
+Before attending classes, students must install:
+- Anaconda
+- Python
+- Jupyter Notebook
+
+📄 Installation Guide:
+- Anaconda & Jupyter Installation (Step-by-step)
+
+Please complete installation before the next session.
+
 # Python Basics (Module 1)
 
 This module introduces Python from scratch.
